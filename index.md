@@ -1,7 +1,7 @@
-## Meisam Malekzadeh
-Fullstack Developer
+## Meisam Malekzadeh  
+Fullstack Developer  
 meisammalekzadeh@gmail.com
-***
+---
 
 ### My Repositories
 [Repositories](https://github.com/MyBitBird/) 
