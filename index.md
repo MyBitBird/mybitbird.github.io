@@ -7,9 +7,9 @@ meisammalekzadeh@gmail.com
 [Repositories](https://github.com/MyBitBird/) 
 
 ### My Live Demos
-IOT React Client: [Live Demos](https://mybitbird.github.io/iot-react-client/) 
+IOT React Client: [Live Demo](https://mybitbird.github.io/iot-react-client/) 
 
-ToDo React Client: [Live Demos](https://mybitbird.github.io/todo-react-client/)
+ToDo React Client: [Live Demo](https://mybitbird.github.io/todo-react-client/)
 
 ### My Articles (in Persian)
 [Articles](https://virgool.io/@meisammalekzadeh) 
